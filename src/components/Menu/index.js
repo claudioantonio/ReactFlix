@@ -10,7 +10,7 @@ function Menu() {
               <img className="Logo" src={Logo} alt="ReactFlix"></img>
             </a>
 
-            <Button className="ButtonLink" href="/">Novo Link</Button>
+            <Button className="ButtonLink" href="/">Novo Vídeo</Button>
         </nav>
     )
 }
