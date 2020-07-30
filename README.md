@@ -1,2 +1,2 @@
 # ReactFlix
-Exercício da aula 01 da imersão React da Alura
+Projeto da semana de imersão React da Alura - Jul/2020
